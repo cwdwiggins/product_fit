@@ -1,0 +1,2 @@
+1. when installing stuff I used the python terminal instead of the powershell terminal and that seemed to find
+the conda virtual environment just fine, the powershell terminal could not.
